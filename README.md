@@ -1,108 +1,168 @@
 <div align="center">
 
-# 𝙀𝙇𝙄𝙏𝙀 𝙏𝘼𝙉𝙂_𝙉𝙀𝙏  
-### *「 Precision. Velocity. Elegance. 」*  
-**Cybernetic Product Engineer • Full-Stack Developer • UX/UI Architect**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C9A84C&width=100%25" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+high-impact+web+systems;Designing+luxury+digital+experiences;Shipping+with+Node%2C+Laravel%2C+Express%2C+Tailwind;Code+clean.+Design+sharp.+Deliver+fast." alt="Typing animation" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=300&size=12&duration=9999&pause=9999&color=C9A84C88&center=true&vCenter=true&width=500&lines=%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95+%E3%82%A2%E3%83%A9%E3%82%B5%E3%82%AB+%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95" alt="" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=42&duration=4000&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=ELITE+TANG" alt="ELITE TANG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=300&size=14&duration=9999&pause=9999&color=E8E0D0&center=true&vCenter=true&width=500&lines=%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%88%E3%83%BB%E3%82%BF%E3%83%B3%E3%82%B0" alt="katakana" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=15&duration=3000&pause=1000&color=A89070&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%E2%80%94+Night+City+Grid;UI%2FUX+Architect+%E2%80%94+Japantown+District;Backend+Systems+%E2%80%94+Arasaka+Certified" alt="subtitle" />
+
+<br/>
+
+```
+　　　　　精密　　　·　　　速度　　　·　　　優雅
+　　　　Precision　　　　Velocity　　　　Elegance
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=C9A84C&width=40%25" />
+
+<sub><code>CLEARANCE: NETRUNNER　·　DIVISION: ARASAKA DIGITAL CORPS　·　DISTRICT: JAPANTOWN</code></sub>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## `// IDENTITY`
+## `身元確認` &nbsp; Identity
 
-```yaml
-codename: ELITE TANG
-specialization:
-  - Full-Stack Web Development
-  - Backend API Engineering
-  - UI/UX Design Systems
-  - Product-Focused Deployment
-stack_core:
-  - HTML5
-  - CSS3
-  - JavaScript (ES6+)
-  - Node.js
-  - Express.js
-  - PHP
-  - Laravel
+```
+  ┌──────────────────────────────────────────────────────┐
+  │                                                      │
+  │   OPERATIVE   Elite Tang                             │
+  │   DIVISION    Arasaka Digital Corps                  │
+  │   DISTRICT    Japantown  /  Night City               │
+  │   STATUS      ━━━━━━━━━━  Online                     │
+  │                                                      │
+  │   ──────────────────────────────────────────────     │
+  │                                                      │
+  │   Full-Stack Web Engineering                         │
+  │   Backend API Architecture                           │
+  │   UI / UX Design Systems                             │
+  │   Product-Focused Deployment                         │
+  │                                                      │
+  └──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `// TECH ARSENAL`
+## `武器庫` &nbsp; Arsenal
 
 <div align="center">
 
-### Core Languages & Markup
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=FF6A00)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=00A3FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4)
+<br/>
 
-### Frameworks & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![HTML5](https://img.shields.io/badge/HTML5-111008?style=for-the-badge&logo=html5&logoColor=C9A84C)
+![CSS3](https://img.shields.io/badge/CSS3-111008?style=for-the-badge&logo=css3&logoColor=C9A84C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111008?style=for-the-badge&logo=javascript&logoColor=C9A84C)
+![PHP](https://img.shields.io/badge/PHP-111008?style=for-the-badge&logo=php&logoColor=C9A84C)
 
-### UI Engineering
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX-0A0A0A?style=for-the-badge&logo=figma&logoColor=FF4F8B)
+![Node.js](https://img.shields.io/badge/Node.js-111008?style=for-the-badge&logo=node.js&logoColor=A89878)
+![Express.js](https://img.shields.io/badge/Express.js-111008?style=for-the-badge&logo=express&logoColor=A89878)
+![Laravel](https://img.shields.io/badge/Laravel-111008?style=for-the-badge&logo=laravel&logoColor=A89878)
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111008?style=for-the-badge&logo=tailwind-css&logoColor=8899AA)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111008?style=for-the-badge&logo=bootstrap&logoColor=8899AA)
+![Figma](https://img.shields.io/badge/Figma-111008?style=for-the-badge&logo=figma&logoColor=8899AA)
+
+<br/>
 
 </div>
 
 ---
 
-## `// WHAT I BUILD`
+## `構築物` &nbsp; What I Build
 
-- ⚡ Performance-oriented web apps with clean architecture  
-- 🧠 Backend logic and APIs with **Node.js / Express** and **Laravel**  
-- 🎯 Product interfaces focused on usability, conversion, and speed  
-- 🎨 Branded, premium UI systems using **Tailwind** and **Bootstrap**  
-- 🛠️ End-to-end development from idea → design → implementation → deployment  
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**⸺ Performance Web Applications**  
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Clean architecture. Zero waste. Built for scale.</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**⸺ Backend APIs & Server Systems**  
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Node.js · Express · Laravel — hardened and reliable.</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**⸺ Premium UI Design Systems**  
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Luxury-grade interfaces, precise and conversion-tuned.</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**⸺ End-to-End Product Delivery**  
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Concept → Design → Code → Deploy. Full spectrum ownership.</sub>
+
+<br/>
 
 ---
 
-## `// GITHUB TELEMETRY`
+## `データ解析` &nbsp; Telemetry
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ehuana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=FF2D95&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehuana&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9" />
+<br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Ehuana&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com?user=Ehuana&theme=dark&hide_border=true&background=0D0C08&ring=C9A84C&fire=A87840&currStreakLabel=C9A84C&sideLabels=888880&dates=555550&stroke=C9A84C22" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehuana&layout=compact&theme=dark&hide_border=true&bg_color=0D0C08&title_color=C9A84C&text_color=A89878" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehuana&theme=github-compact&hide_border=true&bg_color=0D0C08&color=C9A84C&line=6B5530&point=C9A84C&area=true&area_color=C9A84C" />
+
+<br/>
 
 </div>
 
 ---
 
-## `// CURRENT DIRECTIVES`
+## `現在の指令` &nbsp; Active Directives
 
-- 🔭 Refining full-stack products with scalable backend patterns  
-- 🧪 Exploring richer UI interactions and modern frontend architecture  
-- 🧬 Enhancing design systems with a “luxury-tech” identity  
-- 🚀 Shipping more polished, production-ready projects consistently  
+<br/>
 
----
+| &nbsp; | Directive | &nbsp; |
+|:---:|---|:---:|
+| `α` | Refining full-stack architecture with scalable backend patterns | `active` |
+| `β` | Exploring richer UI interactions and modern frontend systems | `active` |
+| `γ` | Elevating design language toward a luxury-tech identity | `active` |
+| `δ` | Delivering polished, production-ready projects consistently | `active` |
 
-## `// CONNECT`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ehuana)
-<!-- Optional: add LinkedIn / Portfolio -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://your-portfolio-link) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-handle) -->
-
-</div>
+<br/>
 
 ---
 
+## `接続` &nbsp; Connect
+
 <div align="center">
 
-### `“High signal. Low noise. Built to endure.”`
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0a0a0a,30:111827,65:0f172a,100:020617&section=footer" />
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D0C08?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/Ehuana)
+[![Gmail](https://img.shields.io/badge/Gmail-0D0C08?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:elitetang1234@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0C08?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://www.linkedin.com/in/elite-tang-24b98a360)
+
+<br/><br/>
+
+```
+　　　　　　　　　　　　　　　　　　　　　　　　　
+　　 「 I just want the world to know I was here,  
+　　　　　　　that I mattered. 」　　　　　　　　　
+　　　　　　　　　　　　　— Elite Tang,  2026　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=30:0D0C08,60:1A1508,100:0D0C08&section=footer&fontColor=C9A84C&fontSize=11&text=%E3%82%A2%E3%83%A9%E3%82%B5%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E2%80%94%20Certified%20Engineer&animation=fadeIn&fontAlignY=72" />
 
 </div>
